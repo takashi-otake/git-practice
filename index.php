@@ -6,7 +6,7 @@
     
 </head>
 <body>
-    <h1>大竹崇史</h1>
+    <h1>大竹崇史です</h1>
     <div id="container">
         <table>
             <tr>
